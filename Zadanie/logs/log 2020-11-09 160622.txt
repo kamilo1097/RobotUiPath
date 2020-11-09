@@ -1,0 +1,8 @@
+﻿2020-11-09 16:06:22 - Zainicjowano zmienne
+2020-11-09 16:06:24 - Otwarto przeglądarke
+2020-11-09 16:06:26 - Przejście do zakładki 'Artykuły'
+2020-11-09 16:06:27 - Pobranie listy artykułów
+2020-11-09 16:06:28 - Zamknięcie przeglądarki
+2020-11-09 16:06:28 - Usunięto tekst 'branża/dział'
+2020-11-09 16:06:28 - Zapisanie do pliku excel
+2020-11-09 16:06:35 - Dopasowanie kolumn do długości tekstu

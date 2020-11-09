@@ -3551,9 +3551,9 @@
     "restore": {
       "projectUniqueName": "Zadanie",
       "projectName": "Zadanie",
-      "projectPath": "K:\\POBRANE\\ZadanieUiPath-main(1)\\ZadanieUiPath-main\\Zadanie\\.local",
+      "projectPath": "K:\\Projects\\GitProjects\\RobotUiPath\\Zadanie\\.local",
       "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-      "outputPath": "K:\\POBRANE\\ZadanieUiPath-main(1)\\ZadanieUiPath-main\\Zadanie\\.local"
+      "outputPath": "K:\\Projects\\GitProjects\\RobotUiPath\\Zadanie\\.local"
     },
     "frameworks": {
       "net461": {
